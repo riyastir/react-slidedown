@@ -19,7 +19,7 @@ I am not aware of any cross-browser issues from IE10 and onwards.
 ## Installation ##
 
 ```sh
-npm install react-slidedown --save
+npm install react-slidedown-react-18 --save
 ```
 
 ## Usage ##
@@ -63,7 +63,7 @@ To quickly see a live demonstration of react-slidedown go [here](https://ykxm1vz
 
 To build and run this example project:
 ```
-git clone https://github.com/frankwallis/react-slidedown.git
+git clone https://github.com/riyastir/react-slidedown.git
 cd react-slidedown
 npm install
 npm start
